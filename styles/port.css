@@ -110,3 +110,15 @@ max-width: 580px;
       border-radius: 5px;
       box-shadow: 0px 6px 50px 0px #e8ebea;
    }
+      /* resume section */
+      .resume-container{
+         display: flex;
+         gap: 25px;
+      }
+      hr{
+         margin: 30px 5px;
+      }
+      .s3{
+         margin-left: 500px;
+         padding: 40px;
+      }
