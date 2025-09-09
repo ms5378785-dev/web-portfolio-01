@@ -22,6 +22,9 @@
    font-weight: 800;
 }
 /* header sec */
+.second-bg{
+   background-color: #FFF8F3;
+}
  nav ul li {
    list-style: none;
     margin-right: 54px;
@@ -70,3 +73,22 @@
 .banner-content{
 max-width: 580px;
 }
+/* main sec */
+ .first{
+   max-width: 1140px;
+   margin: 0 auto;
+      }
+      /* About Section */
+   .about-me {
+      padding: 130px 156px;
+      text-align: center;
+      margin-top: 130px;
+   }
+   .about-items{
+      display: flex;
+      justify-content: space-around;
+   }
+   .item-description{
+      font-weight: 700;
+   }
+         
